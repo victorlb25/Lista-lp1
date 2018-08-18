@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1534561436 source:c:\users\marc\documents\questao 5 lp1\main.cpp
+	<iostream>
+	"relogio.h"
+
+1534561436 c:\users\marc\documents\questao 5 lp1\include\relogio.h
+	<iostream>
+	<string>
+
+1534561436 source:c:\users\marc\documents\questao 5 lp1\src\relogio.cpp
+	"relogio.h"
+
